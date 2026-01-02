@@ -1,0 +1,11 @@
+interfaces\IBancoDados.class
+Proton\Atualizador\FApi.class
+Proton\Atualizador\FMain.class
+types\FArquivos.class
+types\FScripts.class
+interfaces\IArquivos.class
+Proton\Atualizador\FTeste.class
+Proton\Atualizador\FVersao.class
+banco\FBancoDadosExecucao.class
+Proton\Atualizador\FProcessos.class
+banco\FObjetosBancoDados.class

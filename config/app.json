@@ -1,0 +1,11 @@
+{
+	databases:{
+		default:{
+			host      : '7.3.207.233',
+			port    : '1521',
+			instance: 'DB01',
+			user  : appuser,
+			password: housered
+		}
+	}
+}
