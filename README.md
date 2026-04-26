@@ -24,6 +24,7 @@ org.json – manipulação adicional de JSON
 Unirest – consumo de APIs REST
 JUnit – testes unitários
 📁 Estrutura do Projeto
+
 Atualizador/
 │
 ├── config/
@@ -53,6 +54,7 @@ Atualizador/
 │
 ├── pom.xml                   # Configuração Maven
 └── README.md
+
 ⚙️ Funcionalidades
 🔄 Atualização de Sistema
 Verifica versões disponíveis
